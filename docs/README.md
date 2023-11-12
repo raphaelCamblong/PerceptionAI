@@ -2,6 +2,9 @@
 
 Welcome to the PerceptionAI project! This project aims to create a neural network from scratch using only the Numpy library in Python. The developed neural network will be capable of recognizing handwritten digits.
 
+# Getting Started
+
+
 ## Installation
 
 To launch the project, follow these steps:
@@ -64,4 +67,3 @@ This project is distributed under the [MIT License](LICENSE). See the `LICENSE` 
 ---
 
 Feel free to check the additional documentation in the `docs/` folder for more information about the project and its operation. Thank you for contributing to the PerceptionAI project!
-```
